@@ -10,6 +10,7 @@ print(letter2)
 print(letter3)
 print(letter4)
 print(letter5)
+
 3)
 letter1 = 'M'
 letterX = 'M'
@@ -17,6 +18,7 @@ letterX = 'M'
 print(letter1)
 print(letterX)
 ## 'M' was successfully printed with both variables under the same command line.
+
 5)
 letter1 = 'M'
 letter2 = 'E'
@@ -32,6 +34,7 @@ print(letter4)
 print(letter5)
 print(letterX)
 ## Changing the value of X did not change the value of other variables.
+
 6)
 letter1 = 'M'
 letterX = letter1
