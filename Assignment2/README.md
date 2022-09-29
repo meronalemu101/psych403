@@ -3,4 +3,7 @@
 2) No variable show up in editor
 
 ### Operation Exercise
-1) See file [operationscratch.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/operationscratch.py)
+1) See file [operation.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/operation.py)
+
+### Variable Exercise
+1) See file [variable.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/variables.py)
