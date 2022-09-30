@@ -16,3 +16,6 @@
 
 ### Dictionary Exercise
 1) See file [dictionary.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/dictionary.py)
+
+### Arrays Exercise
+1) See file [arrays.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/arrays.py)
