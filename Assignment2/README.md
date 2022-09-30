@@ -13,3 +13,6 @@
 
 ### Lists Exercise
 1) See file [list.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/lists.py)
+
+### Dictionary Exercise
+1) See file [dictionary.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/dictionary.py)
