@@ -7,3 +7,6 @@
 
 ### Variable Exercise
 1) See file [variable.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/variables.py)
+
+### Booleans Exercise
+1) See file [booleans.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/booleans.py)
