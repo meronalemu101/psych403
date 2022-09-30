@@ -10,3 +10,6 @@
 
 ### Booleans Exercise
 1) See file [booleans.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/booleans.py)
+
+### Lists Exercise
+1) See file [list.py](https://github.com/meronalemu101/psych403/blob/main/Assignment2/lists.py)
