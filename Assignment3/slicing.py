@@ -12,7 +12,6 @@ print(list(list100[1::2])[::-1])
 #*if we include 0 as a number* answer given: [3, 2, 1, 0]
 5)
 list100 = (range(101))
-
 print(list(list100))
 print(list(list100[39:44] and ['39', '40', '41', '42', '43']))
 #could not create script with understand if values were identical 
